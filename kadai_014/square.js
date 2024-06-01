@@ -1,6 +1,6 @@
 const calculationTotal = (num) =>{
-  console.log(num*num);
+  return num * num;
 
 }
 
-calculationTotal(170);
+console.log(calculationTotal(10));
